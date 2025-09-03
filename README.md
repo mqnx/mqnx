@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Manuel  
 
-💻 Coder | ⚡ Problem Solver | 🔧 Builder  
+💻 Coder | ⚡ Problem Solver | 🔧 Random and Funny Projects Builder  
 
 I love crafting efficient code and exploring the **low-level side of programming**.  
 Currently diving deep into **C & C++**, automation, and open-source projects.  
