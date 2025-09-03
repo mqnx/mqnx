@@ -15,4 +15,4 @@ Currently diving deep into **C & C++**, automation, and open-source projects.
 ---
 
 ## 📫 Connect with me  
-[![Discord](https://img.shields.io/badge/Discord-manuuux.tf-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/YOUR_DISCORD_ID)
+[![Discord](https://img.shields.io/badge/Discord-manuuux.tf-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/1118889258510454865)
