@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Manuel  
+# 👋 Hey, I'm mqnx  
 
 👨‍💻 Passionate coder | ⚡ Problem solver | 🔧 Builder of random things
 
