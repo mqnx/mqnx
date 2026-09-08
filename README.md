@@ -9,4 +9,4 @@
 
 ## Contact
 
-[![Discord](https://img.shields.io/badge/Discord-ucmqnx-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/1118889258510454865)
+[![Discord](https://img.shields.io/badge/Discord-cospirazione-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/1118889258510454865)
