@@ -10,3 +10,4 @@
 ## Contact
 
 [![Discord](https://img.shields.io/badge/Discord-cospirazione-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/1118889258510454865)
+[![Telegram](https://img.shields.io/badge/Telegram-@mxrvqn-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/mxrvqn)
